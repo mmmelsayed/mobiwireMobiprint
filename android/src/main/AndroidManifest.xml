@@ -1,6 +1,6 @@
 <!-- AndroidManifest.xml -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.treka..mobiwire.mobiprint.">
+          package="com.treka.mobiwire.mobiprint">
 
 </manifest>
