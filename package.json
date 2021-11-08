@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mmmelsayed02/react-native-mobi-wire-mopiprint4-2-2.git",
-    "baseUrl": "https://github.com/mmmelsayed02/react-native-mobi-wire-mopiprint4-2-2"
+    "url": "git+https://github.com/mmmelsayed/mobiwireMobiprint.git",
+    "baseUrl": "https://github.com/mmmelsayed/mobiwireMobiprint"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
     "name": "Mahmoud El-Sayed",
-    "email": "mmmelsayed02@gmail.com"
+    "email": "mmmelsayed92@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
